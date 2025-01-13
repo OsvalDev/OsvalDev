@@ -14,7 +14,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OsvalDev&show_icons=true&theme=dracula&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsvalDev&layout=compact&langs_count=8&card_width=450&theme=dracula" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsvalDev&layout=compact&langs_count=8&card_width=320&theme=dracula&hide=Jupyter%20Notebook" />
   </a>
 </div>
 
