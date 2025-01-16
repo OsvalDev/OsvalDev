@@ -11,10 +11,10 @@
 ## Github stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OsvalDev&show_icons=true&theme=dracula&rank_icon=github" />
+    <img height=200 align="center" src="https://github-readme-stats-osvaldevs-projects-9c11aa9e.vercel.app/api?username=OsvalDev&show_icons=true&theme=dracula&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsvalDev&layout=compact&langs_count=8&card_width=320&theme=dracula&hide=Jupyter%20Notebook" />
+    <img height=200 align="center" src="https://github-readme-stats-osvaldevs-projects-9c11aa9e.vercel.app/api/top-langs?username=OsvalDev&layout=compact&langs_count=8&card_width=320&theme=dracula&hide=Jupyter%20Notebook" />
   </a>
 </div>
 
